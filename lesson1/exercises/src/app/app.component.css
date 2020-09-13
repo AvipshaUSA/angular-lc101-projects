@@ -1,0 +1,12 @@
+.container{
+   float: center;
+
+border-bottom: 2px solid;
+}
+   .col-3{
+       border-left:dotted; 
+}
+footer{
+    text-align: center;
+    padding-top:0px;
+}

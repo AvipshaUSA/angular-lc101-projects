@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: red;
+    text-decoration-line: underline;
+    text-underline-position: below center;
+}
